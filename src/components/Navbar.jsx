@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <header>
       <p>BASIC FITNESS</p>
-      <img src="../public/images/dumbbell-solid.svg" alt="" />
+      <img src="/images/dumbbell-solid.svg" alt="" />
     </header>
   );
 };

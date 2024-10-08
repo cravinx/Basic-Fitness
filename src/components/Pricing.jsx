@@ -6,19 +6,19 @@ const Pricing = () => {
 
     const pricing = [
         {
-            imgUrl: "/public/images/pricing.jpg",
+            imgUrl: "/images/pricing.jpg",
             title : "QUARTERLY",
             price: 18000,
             length: 3,
         },
         {
-            imgUrl: "/public/images/pricing.jpg",
+            imgUrl: "/images/pricing.jpg",
             title : "HEAL_YEARLY",
             price: 34000,
             length: 6,  
         },
         {
-            imgUrl: "/public/images/pricing.jpg",
+            imgUrl: "/images/pricing.jpg",
             title : "YEARLY",
             price: 67000,
             length: 12,  

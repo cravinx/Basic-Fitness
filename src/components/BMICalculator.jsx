@@ -65,7 +65,7 @@ const BMICalculator = () => {
             </form>
         </div>
         <div className="wrapper">
-            <img src="/public/images/bmi.jpg" alt="bmiImage" />
+            <img src="/images/bmi.jpg" alt="bmiImage" />
         </div>
     </div>
    </section>

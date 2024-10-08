@@ -19,7 +19,7 @@ const WorkoutSessions = () => {
           loss, muscle gain, or overall health improvement, structuring your
           workout correctly is essential.
         </p>
-        <img src="/public/images/img5.jpg" alt="workout" />
+        <img src="/images/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
         <h1>FEATURED WORKOUTS</h1>
